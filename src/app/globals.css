@@ -1,26 +1,36 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+
+:root{
+  --box-shadow:5px 5px 10px 10px rgba(101,175,10,0.5)
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+body{
+  background-color:rgb(11,26,51)
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+@keyframes superman { 
+0% {
+border-color:blue;
+transition:translate(0,0px);
+box-shadow:10px 10px 100px 50px blue;
 }
-
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+25%{
+ border-color:rgb(239,244,11);
+box-shadow:10px 10px 100px 50px rgb(239,244,11); 
+}
+50%{
+  border-color:rgb(12,12,199);
+transition:translate(0,10px);
+box-shadow:10px 10px 100px 50px rgb(12,12,199);
+}
+75%{
+ border-color:rgb(130,217,160);
+box-shadow:10px 10px 100px 50px rgb(130,217,160); 
+}
+100%{
+ border-color:rgb(50,55,205);
+transition:translate(0,-10px);
+box-shadow:10px 10px 100px 50pxrgb(50,55,205); 
+}
 }
