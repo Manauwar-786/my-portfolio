@@ -21,9 +21,10 @@ function Experience() {
 
   return (
     <>
-      <h1 className="text-2xl flex justify-center md:pt-8 pt-5 md:text-3xl font-semibold bg-gradient-to-r from-blue-500 via-green-400 to-indigo-500 bg-clip-text text-transparent">
+      <h1 className="text-2xl flex justify-center md:pt-8 pt-5 md:text-3xl font-semibold bg-gradient-to-r from-blue-500 via-green-400 to-indigo-500 bg-clip-text text-transparent ">
         Experience
       </h1>
+     
       <div className="w-full md:py-20 py-4 rounded-xl shadow-md flex justify-center"
       data-aos="zoom-in-up"
       >

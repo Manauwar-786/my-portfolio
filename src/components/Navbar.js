@@ -73,7 +73,7 @@ function Navbar() {
             </Link>
           </li>
           <li>
-            <Link href="/project" onClick={toggleNav}>
+            <Link href="/projects" onClick={toggleNav}>
               Project
             </Link>
           </li>
