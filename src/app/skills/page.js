@@ -5,9 +5,9 @@ function page() {
   const data = {
     heading: "Skills",
     paragraph: [
-      "Languages: HTML, CSS, JavaScript, Tailwindcss",
-      "Frameworks: React.js, Bootstrap Next.js",
-      "Tools: Git, VS Code, Figma",
+      "Languages: HTML, CSS, JavaScript,C++,CoreJava ",
+      "Libraries/Frameworks: React.js, Bootstrap Next.js Tailwindcss SAAS(SCSS)",
+      "Plateforms/Tools: Git,Github, VS Code, Figma",
       "Soft Skills: Teamwork, Communication, Problem-solving",
     ],
   };

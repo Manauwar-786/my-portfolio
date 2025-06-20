@@ -24,9 +24,10 @@ function Experience() {
       <h1 className="text-2xl flex justify-center md:pt-8 pt-5 md:text-3xl font-semibold bg-gradient-to-r from-blue-500 via-green-400 to-indigo-500 bg-clip-text text-transparent ">
         Experience
       </h1>
-     
-      <div className="w-full md:py-20 py-4 rounded-xl shadow-md flex justify-center"
-      data-aos="zoom-in-up"
+
+      <div
+        className="w-full md:py-20 py-4 rounded-xl shadow-md flex justify-center"
+        data-aos="zoom-in-up"
       >
         <p className="w-[80%] md:w-[50%] text-justify tracking-tighter md:tracking-normal text-xl font-semibold bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent mb-4">
           {readMoreBtn ? content : `${content.slice(0, prevLength)}...`}
