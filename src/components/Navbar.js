@@ -58,7 +58,7 @@ function Navbar() {
       {navOpen && (
         <ul className="absolute top-20 left-0 w-full bg-black flex flex-col items-center gap-6 py-6 font-medium text-white text-xl md:hidden z-50 ">
           <li>
-            <Link href="/home" onClick={toggleNav}>
+            <Link href="/" onClick={toggleNav}>
               Home
             </Link>
           </li>
