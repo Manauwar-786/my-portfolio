@@ -21,7 +21,7 @@ function Navbar() {
   };
 
   return (
-    <div className="flex w-full h-20 px-4 md:px-32 justify-between items-center "
+    <div className="flex w-full h-20 px-4 md:px-32 justify-between items-center z-50 relative"
    data-aos="fade-down"
      data-aos-easing="linear"
      data-aos-duration="1500"
