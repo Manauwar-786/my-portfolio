@@ -3,7 +3,7 @@ import "./globals.css";
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body>
+      <body className="bg-[#0b1a33]">
         <Navbar/>
         {children}</body>
     </html>

@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<!-- saved from url=(0030)https://mayihelpu.in/index.php -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Welcome to Mayihelpu</title>
+<link rel="icon" type="image/x-icon" href="https://mayihelpu.in/images/Upload/setting/1503055584.png">
+<!-- Bootstrap -->
+<link href="./page_files/bootstrap.min.css" rel="stylesheet">
+<link href="./page_files/style.css" rel="stylesheet">
+<link rel="stylesheet" href="./page_files/font-awesome.min.css">
+<link rel="stylesheet" href="./page_files/owl.carousel.min.css">
+<link rel="stylesheet" href="./page_files/owl.theme.default.min.css">
+</head>
+
+<body>
+<!--Wrapper Start-->
+<div id="wrapper"> 
+  
+ <!--Header Section Start-->
+  <header id="header" data-spy="affix" data-offset-top="60" data-offset-bottom="60" class="affix">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8  col-sm-12 col-xs-12 col-sm-12">
+          <nav class="navbar"> 
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+              <a class="navbar-brand" href="https://mayihelpu.in/index.php"><img class="logo-dark hidden-xs" style="height:70px;" src="./page_files/1571080469.png" alt=""> <img class="logo-dark hidden-lg hidden-md hidden-sm" src="./page_files/1571080469.png" alt=""></a> </div>
+            
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="main-menu collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+              <ul class="nav navbar-nav navbar-left" style="margin-top:15px;">
+                
+				 <li><a href="https://mayihelpu.in/index.php">Home</a></li>
+                <li><a href="https://mayihelpu.in/aboutus.php">About</a></li>
+                <li><a href="https://mayihelpu.in/services.php">Service</a></li>
+				 <li><a href="https://mayihelpu.in/blog.php">Blogs</a></li>
+                
+                <li><a href="https://mayihelpu.in/contact.php">Contact</a></li>
+              </ul>
+            </div>
+            <!-- /.navbar-collapse --> 
+          </nav>
+        </div>
+        <div class="col-md-4  col-sm-12 col-xs-12 col-sm-12 hidden-xs">
+          <ul class="right-contact" style="margin-top:15px;">
+            <li><i class="fa fa-phone" aria-hidden="true"></i> +91 9991258080</li>
+            <li><a href="https://mayihelpu.in/vendor-login.php" class="btn btn-primary btn-skin">Vendor Login</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- /.container --> 
+  </header>  <!--/Header Section End--> 
+  
+  <!--Banner Start-->
+  <section id="banner" class="home-one">
+  <div class="container text-center parallax-section">
+    <div class="row text-center">
+      <div class="col-md-12">
+        <h1 class="panel-heading">Need Help? We’ve Got You Covered!</h1>
+        <p class="caption">
+          Post any service requirement — from home repairs to business support.<br>
+          We’ll connect you with the right verified expert in minutes.
+        </p>
+
+<form class="form-inline book-now-home" method="GET" action="https://mayihelpu.in/contact.php">
+<div class="form-group">
+<div class="input-group">
+
+<select class="form-control" name="service" required="">
+<option value="">Select Service</option>
+           
+<option value="appliances">
+Appliances</option>
+           
+<option value="beauty-spa">
+Beauty Spa</option>
+           
+<option value="carpentry">
+Carpentry</option>
+           
+<option value="cleaning">
+Cleaning</option>
+           
+<option value="electrical">
+Electrical</option>
+           
+<option value="facial">
+Facial</option>
+           
+<option value="geyser-service">
+Geyser Service</option>
+           
+<option value="hair-cut">
+Hair Cut</option>
+           
+<option value="plumbing">
+Plumbing</option>
+       
+
+</select>
+</div>
+</div>
+
+<div class="form-group">
+<div class="input-group location-code">
+<input type="text" class="form-control zipcode" id="zipcode" name="pincode" placeholder="Enter your Pincode" required="">
+</div>
+</div>
+
+<button type="submit" class="btn btn-primary booknow btn-skin">Request Now</button>
+</form>
+
+
+<!--         <form class="form-inline book-now-home">
+          <div class="form-group">
+            <div class="input-group">
+              <div class="dropdown category-dropdown text-left">
+                <a data-toggle="dropdown" href="#">
+                  <i class="fa fa-list" aria-hidden="true"></i>
+                  <span class="change-text">Select Service</span>
+                  <i class="fa fa-caret-down pull-right" aria-hidden="true"></i>
+                </a>
+                <ul class="dropdown-menu category-change">
+                  <li><a href="#">Home Services</a></li>
+                  <li><a href="#">Loan & Finance</a></li>
+                  <li><a href="#">Legal & Documentation</a></li>
+                  <li><a href="#">Automobile Services</a></li>
+                  <li><a href="#">Business Support</a></li>
+                  <li><a href="#">Others</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="input-group location-code">
+              <input type="text" class="form-control zipcode" id="zipcode" placeholder="Enter your Pincode" />
+            </div>
+          </div>
+          <button type="submit" class="btn btn-primary booknow btn-skin">Request Now</button>
+        </form> -->
+      </div>
+    </div>
+  </div>
+</section>
+
+  
+  <!--/Banner End--> 
+
+    
+ <!--How it works Section Start-->
+<section id="howitwork">
+  <div class="container text-center">
+    <h1 class="panel-heading">How It Works</h1>
+    <div class="row">
+      <div class="col-md-3 col-xs-offset-0 step-one">
+        <img src="./page_files/1297980016.png" alt="Post Requirement" class="img-circle htw">
+        <h4>Post Your Requirement</h4>
+        <p>Submit your service need — like
+plumbing, loans, or legal help. 
+                                </p>
+      </div>
+      <div class="col-md-1 hidden-xs hidden-sm"></div>
+      <div class="col-md-3 step-two">
+         <img src="./page_files/74610491.png" alt="Post Requirement" class="img-circle htw">
+        <h4>We Assign a Vendor</h4>
+        <p>Our team matches you with a verified
+and trusted service provider. 
+                                </p>
+      </div>
+      <div class="col-md-1 hidden-xs hidden-sm"></div>
+      <div class="col-md-3">
+         <img src="./page_files/562230219.png" alt="Post Requirement" class="img-circle htw">
+        <h4>Get the Service</h4>
+        <p>Your service is completed on time
+with quality assurance. 
+                                </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+  <!--How it works Section End--> 
+  
+  <!--Our services Section Satrt-->
+  <section id="services">
+    <div class="container text-center">
+      <h1 class="panel-heading">Our services</h1>
+      <ul class="services-list">
+        <li><a href="https://mayihelpu.in/beauty-spa-sl.php"><img src="./page_files/1994479819.svg" alt="electrical"><br>
+          Beauty Spa</a></li>
+         
+    <li><a href="https://mayihelpu.in/contractors-sl.php"><img src="./page_files/2057044984.svg" alt="electrical"><br>
+          Contractors</a></li>
+         
+    <li><a href="https://mayihelpu.in/dentists-sl.php"><img src="./page_files/1223671784.svg" alt="electrical"><br>
+          Dentists</a></li>
+         
+    <li><a href="https://mayihelpu.in/home-decor-sl.php"><img src="./page_files/1022833916.svg" alt="electrical"><br>
+          Home Decor</a></li>
+         
+            <li><a href="https://mayihelpu.in/services.php"><img src="./page_files/more.png" alt="more"><br>
+          View More</a></li>
+      </ul>
+    </div>
+  </section>
+  <!--Our services Section End--> 
+  
+ <!--Trust Security Section Start-->
+<section id="trust-security">
+  <div class="container text-center">
+    <h1 class="panel-heading">Your Trust, Our Priority</h1>
+    <div class="row text-left">
+
+
+
+
+ <div class="col-md-4 col-sm-6 col-xs-12">
+        <div class="icon_box_one">
+          <div class="icons"><img src="./page_files/68763fef45edf.png" alt="Saves Time"></div>
+          <div class="box_content">
+            <h4>Professionals Come </h4>
+            <p>Vendors arrive equipped for the job, or adjust as per your specific requirement mentioned while booking. 
+ 
+ 
+ 
+</p>
+                     </div>
+        </div>
+      </div>          
+         
+
+
+ <div class="col-md-4 col-sm-6 col-xs-12">
+        <div class="icon_box_one">
+          <div class="icons"><img src="./page_files/68763fef44813.png" alt="Saves Time"></div>
+          <div class="box_content">
+            <h4>Save Your Valuable Time</h4>
+            <p>Just post your requirement — we handle the rest by assigning verified professionals swiftly. 
+ 
+ 
+ 
+</p>
+                     </div>
+        </div>
+      </div>          
+         
+
+
+ <div class="col-md-4 col-sm-6 col-xs-12">
+        <div class="icon_box_one">
+          <div class="icons"><img src="./page_files/68763fef46a4c.png" alt="Saves Time"></div>
+          <div class="box_content">
+            <h4>Secure Payment Options</h4>
+            <p>Pay online only after the service is completed —  —  —safe, secure, and hassle-free transactions. 
+ 
+ 
+ 
+</p>
+                     </div>
+        </div>
+      </div>          
+         
+
+
+ <div class="col-md-4 col-sm-6 col-xs-12">
+        <div class="icon_box_one">
+          <div class="icons"><img src="./page_files/68763fef46484.png" alt="Saves Time"></div>
+          <div class="box_content">
+            <h4>Stay Updated</h4>
+            <p>Track your request, get timely updates, and communicate easily with our team whenever needed. 
+ 
+ 
+ 
+</p>
+                     </div>
+        </div>
+      </div>          
+         
+
+
+ <div class="col-md-4 col-sm-6 col-xs-12">
+        <div class="icon_box_one">
+          <div class="icons"><img src="./page_files/68763fef457a3.png" alt="Saves Time"></div>
+          <div class="box_content">
+            <h4>Top-Rated Service</h4>
+            <p>We onboard only trusted vendors with experience. Your feedback ensures we keep quality at its best. 
+ 
+ 
+ 
+</p>
+                     </div>
+        </div>
+      </div>          
+         
+
+
+ <div class="col-md-4 col-sm-6 col-xs-12">
+        <div class="icon_box_one">
+          <div class="icons"><img src="./page_files/68763fef4510e.png" alt="Saves Time"></div>
+          <div class="box_content">
+            <h4>Verified Vendors Only</h4>
+            <p>All service providers go through strict ID checks and manual verifications to ensure safety and reliability. 
+ 
+ 
+ 
+</p>
+                     </div>
+        </div>
+      </div>          
+         
+
+  
+
+    </div>
+  </div>
+</section>
+<!--Trust Security Section End-->
+
+
+
+  
+ <!--Our Numbers Start-->
+<section id="numbers">
+  <div class="container text-center">
+    <div class="row">
+
+      <div class="col-md-3 col-sm-6 col-xs-6"> 
+        <!--counter box-->
+        <div class="counter_box text-center">
+          <div class="counter_icon"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i></div>
+          <div class="counter_number counter"><span class="stat-count">100</span>%</div>
+          <h4 class="counter_name">Service Satisfaction</h4>
+        </div>
+        <!--counter box end--> 
+      </div>
+
+      <div class="col-md-3 col-sm-6 col-xs-6"> 
+        <!--counter box-->
+        <div class="counter_box text-center">
+          <div class="counter_icon"><i class="fa fa-user" aria-hidden="true"></i></div>
+          <div class="counter_number counter"><span class="stat-count">1800</span>+</div>
+          <h4 class="counter_name">Verified Vendors</h4>
+        </div>
+        <!--counter box end--> 
+      </div>
+
+      <div class="col-md-3 col-sm-6 col-xs-6"> 
+        <!--counter box-->
+        <div class="counter_box text-center">
+          <div class="counter_icon"><i class="fa fa-calendar-o" aria-hidden="true"></i></div>
+          <div class="counter_number counter"><span class="stat-count">80</span>+</div>
+          <h4 class="counter_name">Years of Trust</h4>
+        </div>
+        <!--counter box end--> 
+      </div>
+
+      <div class="col-md-3 col-sm-6 col-xs-6"> 
+        <!--counter box-->
+        <div class="counter_box text-center">
+          <div class="counter_icon"><i class="fa fa-smile-o" aria-hidden="true"></i></div>
+          <div class="counter_number counter"><span class="stat-count">900</span>+</div>
+          <h4 class="counter_name">Happy Customers</h4>
+        </div>
+        <!--counter box end--> 
+      </div>
+
+    </div>
+  </div>
+</section>
+<!--/Our Numbers End-->
+
+  
+  <!--Features Section Start-->
+<section id="features">
+  <div class="container text-center features-section">
+    <div class="row text-left">
+      <div class="col-md-6 col-sm-6 col-xs-12 text-center">
+        <img src="./page_files/qualit_work.png" alt="Trusted Service Partners">
+      </div>
+      <div class="col-md-6 col-sm-12 col-xs-12">
+        <h2>Why Choose mayihelpu.in?</h2>
+
+
+
+   <div class="icon_box_one">
+          <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
+          <div class="box_content">
+            <h4>All-in-One Service Platform</h4>
+            <p>Whether it\\\'s home maintenance, finance, legal help, or transport — we bring it all to one place. 
+                                 
+                                 
+                                </p>
+          </div>
+        </div>         
+         
+
+   <div class="icon_box_one">
+          <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
+          <div class="box_content">
+            <h4>Verified &amp; Trusted Vendors</h4>
+            <p>We only assign pre-screened service providers to ensure trust and quality in every interaction. 
+                                 
+                                 
+                                </p>
+          </div>
+        </div>         
+         
+
+   <div class="icon_box_one">
+          <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
+          <div class="box_content">
+            <h4>Quick Response, Hassle-Free Process</h4>
+            <p>Post your requirement in seconds. We handle the coordination and connect you fast. 
+                                 
+                                 
+                                </p>
+          </div>
+        </div>         
+         
+
+   <div class="icon_box_one">
+          <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
+          <div class="box_content">
+            <h4>Support That Cares</h4>
+            <p>Our team stays in touch throughout to ensure your requirement is fulfilled smoothly. 
+                                 
+                                 
+                                </p>
+          </div>
+        </div>         
+         
+
+
+
+      </div>
+    </div>
+  </div>
+</section>
+<!--Features Section End-->
+
+ 
+  
+  <!--Trusted Section Satrt-->
+  <section id="trusted">
+    <div class="container text-center">
+      <div class="row text-left">
+        <div class="col-md-2 col-sm-3 col-xs-12">
+          <h3 class="panel-heading">TRUSTED BY</h3>
+        </div>
+        <div class="col-md-10 col-sm-12 col-xs-12">
+          <ul class="trusted_logo owl-carousel owl-loaded owl-drag" id="trusted-slider">
+
+
+        
+         
+
+        
+         
+
+        
+         
+
+        
+         
+
+        
+         
+
+           
+          <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all; width: 945px;"><div class="owl-item active" style="width: 189px;"><li><a href="https://mayihelpu.in/index.php#"><img src="./page_files/348855030.png" alt="Logo 5"></a></li></div><div class="owl-item active" style="width: 189px;"><li><a href="https://mayihelpu.in/index.php#"><img src="./page_files/1264158088.png" alt="Logo 4"></a></li></div><div class="owl-item active" style="width: 189px;"><li><a href="https://mayihelpu.in/index.php#"><img src="./page_files/642970667.png" alt="Logo 3"></a></li></div><div class="owl-item active" style="width: 189px;"><li><a href="https://mayihelpu.in/index.php#"><img src="./page_files/852892459.png" alt="Logo 2"></a></li></div><div class="owl-item active" style="width: 189px;"><li><a href="https://mayihelpu.in/index.php#"><img src="./page_files/1953043834.png" alt="Logo 1"></a></li></div></div></div><div class="owl-nav disabled"><div class="owl-prev"><i class="fa fa-angle-left "></i></div><div class="owl-next"><i class="fa fa-angle-right"></i></div></div><div class="owl-dots disabled"></div></ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--Trusted Section End--> 
+  
+  <!--Call To Action Start-->
+  <section id="call-to-action">
+    <div class="container free_consultation">
+      <div class="row">
+        <div class="col-md-8 col-sm-8 col-xs-12 text-left">
+          <h2>Wanted a Free Consultation?</h2>
+          <p>we are always ready to welcome you!</p>
+        </div>
+        <div class="col-md-4 col-sm-4 col-xs-12 m-text-center text-right"> <a class="btn btn-primary btn-outline">Contact Us </a> </div>
+      </div>
+    </div>
+  </section>
+  <!--Call To Action End--> 
+  
+   <!--Footer-->
+  <footer>
+    <div class="container-fluid footerbg">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3"> <a href="https://mayihelpu.in/index.php#" class="footer-logo"> <img class="logo-dark" src="./page_files/1571080469.png" alt="Mayihelpu.in"> </a>
+            <p>Mayihelpu.in is a startup to provide instant service in all over haryana State.</p>
+            <div class="about_info">
+              <p><i class="fa fa-map-marker" aria-hidden="true"></i> A-25, Cyber Hub, Gurugram, Haryana, India</p>
+              <p><i class="fa fa-envelope" aria-hidden="true"></i> support@mayihelpu.in</p>
+              <p><i class="fa fa-phone" aria-hidden="true"></i> +91 9991258080</p>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <h4>Services</h4>
+<ul>        <li>
+          <a href="https://mayihelpu.in/service_detail.php?slug=appliances">
+            <i class="fa fa-caret-right" aria-hidden="true"></i>
+            Appliances          </a>
+        </li>
+                <li>
+          <a href="https://mayihelpu.in/service_detail.php?slug=beauty-spa">
+            <i class="fa fa-caret-right" aria-hidden="true"></i>
+            Beauty Spa          </a>
+        </li>
+                <li>
+          <a href="https://mayihelpu.in/service_detail.php?slug=carpentry">
+            <i class="fa fa-caret-right" aria-hidden="true"></i>
+            Carpentry          </a>
+        </li>
+                <li>
+          <a href="https://mayihelpu.in/service_detail.php?slug=cleaning">
+            <i class="fa fa-caret-right" aria-hidden="true"></i>
+            Cleaning          </a>
+        </li>
+                <li>
+          <a href="https://mayihelpu.in/service_detail.php?slug=electrical">
+            <i class="fa fa-caret-right" aria-hidden="true"></i>
+            Electrical          </a>
+        </li>
+        </ul><ul>        <li>
+          <a href="https://mayihelpu.in/service_detail.php?slug=facial">
+            <i class="fa fa-caret-right" aria-hidden="true"></i>
+            Facial          </a>
+        </li>
+                <li>
+          <a href="https://mayihelpu.in/service_detail.php?slug=geyser-service">
+            <i class="fa fa-caret-right" aria-hidden="true"></i>
+            Geyser Service          </a>
+        </li>
+                <li>
+          <a href="https://mayihelpu.in/service_detail.php?slug=hair-cut">
+            <i class="fa fa-caret-right" aria-hidden="true"></i>
+            Hair Cut          </a>
+        </li>
+                <li>
+          <a href="https://mayihelpu.in/service_detail.php?slug=plumbing">
+            <i class="fa fa-caret-right" aria-hidden="true"></i>
+            Plumbing          </a>
+        </li>
+        </ul>
+            <!-- <ul>
+              <li><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i>Geyser Service</a></li>
+              <li><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i>Vehicle Care</a></li>
+              <li><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i>Pest Control</a></li>
+              <li><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i>Panting</a></li>
+            </ul> -->
+          </div>
+          <div class="col-md-2">
+            <h4>About Us</h4>
+            <ul>
+              <li><a href="https://mayihelpu.in/index.php">Home</a></li>
+              <li><a href="https://mayihelpu.in/aboutus.php">About us</a></li>
+              <li><a href="https://mayihelpu.in/services.php">Services</a></li>
+              <li><a href="https://mayihelpu.in/contact.php">Contact</a></li>
+			    <li><a href="https://mayihelpu.in/track-service-request.php">Track Service </a></li>
+				 <li><a href="https://mayihelpu.in/vendor-login.php">Vendor Login </a></li>
+            </ul>
+          </div>
+          <div class="col-md-4">
+             <h4>Other Pages</h4>
+            <ul>
+              <li><a href="https://mayihelpu.in/term-conditions.php">Term &amp; Conditions</a></li>
+              <li><a href="https://mayihelpu.in/privacy-policy.php">Privacy Policy</a></li>
+              <li><a href="https://mayihelpu.in/disclaimer.php">Disclaimer</a></li>
+              <li><a href="https://mayihelpu.in/refund-policy.php">Refund Policy</a></li>
+            </ul></div>
+        </div>
+        <div class="top_awro pull-right" id="back-to-top" data-original-title="" title="" style="display: block;"><i class="fa fa-chevron-up" aria-hidden="true"></i> </div>
+      </div>
+    </div>
+    
+    <!--Boottom Footer-->
+    <div class="container-fluid bottom-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <p class="copyright pull-left">© Mayihelpu.in 2025 All Right Reserved - powered by <a href="https://www.indiabless.com/">indiabless.com</a></p>
+            <ul class="footer-scoails pull-right">
+              <li><a href="https://mayihelpu.in/index.php#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+              <li><a href="https://mayihelpu.in/index.php#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+              <li><a href="https://mayihelpu.in/index.php#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!--/Footer-->  
+  
+</div>
+<!--/Wrapper End--> 
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+<script src="./page_files/jquery.min.js.download"></script> 
+<!-- Include all compiled plugins (below), or include individual files as needed --> 
+<script src="./page_files/bootstrap.min.js.download"></script> 
+<script src="./page_files/owl.carousel.min.js.download"></script> 
+<script src="./page_files/custom.js.download"></script>
+
+</body></html>

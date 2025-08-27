@@ -4,18 +4,20 @@ import Aos from "aos";
 function Experience() {
   const [readMoreBtn, setReadMoreBtn] = useState(false);
 
-  const content = ` I'm a Front-End Developer skilled in React.js, Next.js, and responsive
-  design using Tailwind CSS and Bootstrap. I build fast, accessible, and
-  dynamic websites with a focus on user experience. 🚀 Passionate and
-  detail-oriented Front-End Developer with a strong foundation in building
-  responsive, user-friendly web interfaces using HTML, CSS, and
-  JavaScript. Proficient in modern frameworks like React.js and Next.js,
-  with experience designing clean using Tailwindcss & CSS and Bootstrap.
-  🛠 Skilled in component-based development, state management, and
-  integrating APIs to deliver high-performance web applications.
-  Continuously learning and adapting to new technologies to build scalable
-  and accessible solutions. Looking forward to contributing to impactful
-  projects and growing in a collaborative development environment.`;
+  const content = ` Web Development Intern
+Pocketfull | 3 Months 
+
+Developed and optimized blog pages ensuring responsive design and user-friendly layouts.
+
+Integrated APIs to fetch and display dynamic content, improving site interactivity.
+
+Worked on FAQ section with collapsible/dynamic components for better user experience.
+
+Gained hands-on exposure to dynamic routing and troubleshooting common issues in Next.js/React.
+
+Collaborated with the team to debug and resolve technical challenges, enhancing problem-solving skills.
+
+Improved understanding of front-end development workflow and real-world project structure.`;
 
   const prevLength = 500;
 

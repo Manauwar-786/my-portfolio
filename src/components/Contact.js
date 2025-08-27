@@ -99,7 +99,7 @@ const [formData, setFormData] = useState({
       <div className="py-4 md:py-5 ">
      <div style={{ padding: "20px", maxWidth: "400px", margin: "auto" }}>
       <h2 className=" text-cyan-500 font-medium">Contact Form</h2>
-      <form onSubmit={handleSubmit}>
+      <form onSubmit={handleSubmit} className="bg-[#0b1a40]">
         <input className="text-white"
           type="text"
           name="firstName"
